@@ -1,0 +1,8 @@
+sqlalchemy[asyncio]>=2.0.36
+asyncpg>=0.30.0
+pgvector>=0.3.6
+pydantic>=2.10.0
+polars>=1.18.0
+numpy>=2.1.0
+rich>=13.9.4
+typer>=0.15.1
